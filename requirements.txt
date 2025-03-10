@@ -1,0 +1,6 @@
+fastapi
+langchain_community
+uvicorn
+langserve
+streamlit
+langchain
